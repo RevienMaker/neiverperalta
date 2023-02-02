@@ -928,6 +928,11 @@ h4 {
     margin-top: 6rem;
   }
 }
+@media (max-width: 480px) {
+  .contacto-section footer .contacto-links {
+    width: 250px;
+  }
+}
 .contacto-section footer .contacto-links a {
   color: #232429;
   border-radius: 50%;
