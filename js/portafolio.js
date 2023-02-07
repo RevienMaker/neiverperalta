@@ -16,7 +16,7 @@ proyecto1.addEventListener('click', () =>{
             </div>
 
             <div class="texto-contenedor">
-                <h2>Blog de café</h2>
+                <h2 translate="yes">Coffee Blog</h2>
 
                 <p>practice page, recreating a blog type page with HTML and CSS.</p>
 
@@ -112,7 +112,7 @@ proyecto3.addEventListener('click', () =>{
             </div>
 
             <div class="texto-contenedor">
-                <h2>Bienes Raices</h2>
+                <h2 translate="yes">Real Estate</h2>
 
                 <p>practice page, recreating a Real Estate page with HTML, CSS and JavaScript.</p>
 
@@ -208,7 +208,7 @@ proyecto5.addEventListener('click', () =>{
             </div>
 
             <div class="texto-contenedor">
-                <h2>Carrito de compras</h2>
+                <h2 translate="yes">Shopping Cart</h2>
 
                 <p>Practice page, programming a shopping cart system with JavaScript and Bootstrap.</p>
 
@@ -256,7 +256,7 @@ proyecto6.addEventListener('click', () =>{
             </div>
 
             <div class="texto-contenedor">
-                <h2>Henrry (videogame)</h2>
+                <h2 translate="yes">Henrry (videogame)</h2>
 
                 <p>My own 2D platform game, programmed with C# in Unity 2D.</p>
 
