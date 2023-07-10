@@ -162,7 +162,7 @@ proyecto4.addEventListener('click', () =>{
             <div class="texto-contenedor">
                 <h2>Simple Phisycs</h2>
 
-                <p>Physics website with different classes to learn easily. made using HTML and CSS and Bootstrap.</p>
+                <p>Physics website with different classes to learn easily. made using HTML, CSS and Bootstrap.</p>
 
                 <div class="links">
                     <a href="https://github.com/RevienMaker/SimplePhisycs.github.io" target="_blank">
@@ -210,7 +210,7 @@ proyecto5.addEventListener('click', () =>{
             <div class="texto-contenedor">
                 <h2 translate="no">EnglishUp</h2>
 
-                <p>English website with different classes to learn the language easily. made using HTML and CSS and Bootstrap.</p>
+                <p>English website with different classes to learn the language easily. made using HTML, CSS and Bootstrap.</p>
 
                 <div class="links">
                     <a href="https://github.com/RevienMaker/EnglishUp.github.io" target="_blank">
