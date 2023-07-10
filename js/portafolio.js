@@ -210,7 +210,7 @@ proyecto5.addEventListener('click', () =>{
             <div class="texto-contenedor">
                 <h2 translate="no">EnglishUp</h2>
 
-                <p>English website with different classes to learn the language easily. made using HTML, CSS and Bootstrap.</p>
+                <p>English website (only made for mobile phones) with different classes to learn the language easily. made using HTML and CSS and Bootstrap</p>
 
                 <div class="links">
                     <a href="https://github.com/RevienMaker/EnglishUp.github.io" target="_blank">
