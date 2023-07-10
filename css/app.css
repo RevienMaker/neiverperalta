@@ -615,6 +615,23 @@ h4 {
     max-width: 100%;
   }
 }
+@media (max-width: 768px) {
+  .portafolio-seccion .modal-proyecto-contenedor .modal-proyecto {
+    width: 80%;
+    display: grid;
+    gap: 3rem;
+    grid-template-columns: repeat(1, 1fr);
+    align-items: center;
+  }
+  .portafolio-seccion .modal-proyecto-contenedor .modal-proyecto .modal-proyecto-tlf__img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .portafolio-seccion .modal-proyecto-contenedor .modal-proyecto .modal-proyecto-tlf__img img {
+    width: 90px;
+  }
+}
 .portafolio-seccion .modal-proyecto-contenedor .modal-proyecto .texto-contenedor {
   text-align: center;
 }
@@ -625,6 +642,19 @@ h4 {
 .portafolio-seccion .modal-proyecto-contenedor .modal-proyecto .texto-contenedor p {
   text-align: start;
   color: white;
+}
+@media (max-width: 768px) {
+  .portafolio-seccion .modal-proyecto-contenedor .modal-proyecto .texto-contenedor h2 {
+    margin: 1rem;
+    font-size: 25px;
+    color: white;
+  }
+  .portafolio-seccion .modal-proyecto-contenedor .modal-proyecto .texto-contenedor p {
+    font-size: 22px;
+    line-height: 22px;
+    text-align: start;
+    color: white;
+  }
 }
 .portafolio-seccion .modal-proyecto-contenedor .modal-proyecto .texto-contenedor .links {
   padding-top: 3rem;

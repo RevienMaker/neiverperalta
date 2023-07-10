@@ -203,7 +203,7 @@ proyecto5.addEventListener('click', () =>{
     modal.innerHTML += `
     <div id="modal-bg" class="modal-proyecto-contenedor">
         <div class="modal-proyecto">
-            <div class="modal-proyecto__img">
+            <div class="modal-proyecto-tlf__img">
                 <img src="./images/EnglishUp2.png" alt="imagen del proyecto">
             </div>
 
